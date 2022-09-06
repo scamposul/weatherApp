@@ -1,0 +1,13 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.App {
+  background: #242424;
+  width: 180%;
+  padding-top: 1rem;
+  padding-bottom: 1.5rem;
+  border-radius: 5%;
+}
