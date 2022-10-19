@@ -1,13 +1,15 @@
 #root {
-  max-width: 1280px;
-  margin: 0 auto;
+  max-width: 20.48rem;
+  margin-left: 45rem;
   text-align: center;
 }
 
 .App {
-  background: #242424;
-  width: 180%;
+  font-family: 'Nunito', sans-serif;
+  background: rgba(255, 255, 255, 0.5);
   padding-top: 1rem;
+  width: 25rem;
   padding-bottom: 1.5rem;
   border-radius: 5%;
+  color: #242424;  
 }
